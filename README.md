@@ -23,7 +23,7 @@ Then call the call API
 
 ## Content
 
-* [Deeplearning cat and Dogs](https://github.com/MutegiMk/DL-TransferLearning-cats-and-Dogs/blob/main/deeplearning%20Cats%20and%20dogs.ipynb): This jupyter notebook contains transfer learning workflow where I use a trained model from tensorflow_hub to predict a sample of 2000 images of cat and dogs from a collection of 25000 images
+* [Deeplearning cat and Dogs](https://github.com/MutegiMk/DL-TransferLearning-cats-and-Dogs/blob/main/DeepLearning_Cat_and_Dogs.ipynb): This jupyter notebook contains transfer learning workflow where I use a trained model from tensorflow_hub to predict a sample of 2000 images of cat and dogs from a collection of 25000 images
 
 ***Tools: sklearn, tensorflow, pandas, numpy, google colab patches, matplotlib***
   
